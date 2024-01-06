@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(240, 240, 253);
+}
+.resume{
+    background-color: lightblue;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    padding: 20px;
+    
+}
+
+.header h1 {
+    font-size: 50px;
+    font-style: bold;
+    text-align: center;
+    
+}
+.header{
+    height:420px;
+}
+.info{
+    font-size: 17px;
+}
+.image{
+      position: relative;
+      float: none;
+      
+}
+a{
+    font-size: 15px;
+    font-style: italic;
+    margin-left: 9px;
+}
+.section{
+    text-align: left;
+    
+}
+.section h2{
+    text-decoration: underline;
+    padding-bottom: 9px;
+}
+.content{
+    font-style:italic;
+    font-size: 20px;
+}
+.experience{
+    font-style: italic;
+    font-size: 20px;
+}
+#details{
+    font-style: italic;
+    font-size: 20px;
+}
+@media screen and (max-width: 600px) {
+
+.header .image img{
+    height: 140px;
+    width: 130px;
+}
+}

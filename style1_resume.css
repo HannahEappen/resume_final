@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(240, 240, 253);
+}
+.header1{
+    background-color: lightblue;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    padding:10px;
+}
+.sum1{
+    text-align: center;
+    font-style: bold;
+    text-decoration: underline;
+    font-size: 15px;
+}
+.box{
+    text-align: left;
+    font-size: 23px;
+    font-style: italic;
+}
